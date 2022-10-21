@@ -3,6 +3,11 @@
 
 Bienvenue chez l'illustre, venez savourez nos délicieux plats et gouter aux parfums subtils de 
 nos repas. 
+
+## Spécification Téchnique
+
+**Front-end:** HTML, SCSS, Javascript, Bootstrap
+
 ## Pour cloner le dépot
 
 Copier cette ligne de code
